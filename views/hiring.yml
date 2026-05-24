@@ -1,0 +1,7 @@
+name: Hiring
+order: 0
+filters:
+  all:
+    - field: Tags
+      op: equals
+      value: Hiring
