@@ -1,5 +1,4 @@
 ---
-_favorite_index: 1
 Status: In progress
 Date: 2026-05-14
 _icon: address-book
