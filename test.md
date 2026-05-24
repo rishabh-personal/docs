@@ -2,6 +2,7 @@
 Status: In progress
 Date: 2026-05-14
 _icon: address-book
+URL: https://developers.openai.com/codex/cli
 ---
 # VP Platform — First-Round Interview Guide
 
