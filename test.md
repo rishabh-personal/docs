@@ -4,8 +4,6 @@ Status: In progress
 Date: 2026-05-14
 _icon: address-book
 ---
-# Untitled
-
 # VP Platform — First-Round Interview Guide
 
 **Duration:** 60 minutes
