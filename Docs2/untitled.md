@@ -1,6 +1,4 @@
 ---
 type: Note
 ---
-
-# Untitled
-
+# Doc inside doc 2
