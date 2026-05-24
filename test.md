@@ -1,3 +1,6 @@
+---
+_favorite: true
+---
 # Untitled
 
 # VP Platform — First-Round Interview Guide
