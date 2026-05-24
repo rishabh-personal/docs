@@ -3,7 +3,7 @@ Status: In progress
 Date: 2026-05-14
 _icon: address-book
 URL: https://developers.openai.com/codex/cli
-Tags:[]
+Tags: Hiring
 ---
 # VP Platform — First-Round Interview Guide
 
