@@ -1,5 +1,6 @@
 ---
 _favorite_index: 1
+_favorite: true
 ---
 # Untitled
 
