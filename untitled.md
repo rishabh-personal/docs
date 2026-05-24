@@ -1,6 +1,7 @@
 ---
 type: Note
+_archived: true
 ---
+# Test
 
-# Untitled
-
+Test archive
